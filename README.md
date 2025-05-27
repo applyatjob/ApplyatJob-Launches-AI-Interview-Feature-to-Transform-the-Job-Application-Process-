@@ -22,6 +22,7 @@ The introduction of this AI interview feature marks a major milestone for Applya
 AI-powered interviews are becoming increasingly popular in the HR world, but ApplyatJob is one of the first platforms to fully integrate this technology into its job application system. By doing so, the company is setting a new standard for online recruitment.
 
 Looking Ahead?
+
 ApplyatJob’s new feature is just the beginning. As the company continues to develop and refine its platform, we can expect even more innovations designed to make the hiring process fairer, faster, and more effective.
 Whether you’re a company looking to hire the best talent or a job seeker searching for your next opportunity, ApplyatJob’s AI interview system offers a smart, modern solution that saves time and increases success for everyone involved.
 Visit ApplyatJob.com today to explore the new feature and experience the future of hiring.
